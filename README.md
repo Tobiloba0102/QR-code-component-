@@ -20,6 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](/qr-code-component-main/images/QR-code%20solution.png)
+<img width="1114" height="568" alt="QR-code solution" src="https://github.com/user-attachments/assets/045bbfc3-acb2-4f0a-b21b-68f283f6ee37" />
+
 
 ### Links
 
