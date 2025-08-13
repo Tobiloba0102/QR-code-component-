@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(216, 231, 239);
+    font-family: 'Outfit', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
